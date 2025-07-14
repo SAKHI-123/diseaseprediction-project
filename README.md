@@ -1,6 +1,21 @@
 # Disease Prediction Project
 
-This project predicts diseases based on user input symptoms using Machine Learning in Python.
+This project uses Machine Learning to predict diseases based on user input symptoms. It is implemented in Python using libraries like Pandas and Scikit-learn.
 
-👉 [Click here to view the project notebook](https://colab.research.google.com/drive/1xs3b79-1EDThjSi1fMLfzf23t6MTjCV2?usp=drive_link)
-  
+## 🔧 Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Jupyter Notebook / Google Colab
+
+## 📌 Description
+The goal of this project is to predict the most probable disease based on symptoms entered by the user. A classification algorithm is trained on a symptoms-to-disease dataset and makes predictions based on input features.
+
+## 🚀 How to Run
+1. Clone this repository or download the `.ipynb` file.
+2. Open it in Jupyter Notebook or Google Colab.
+3. Run all cells to train and test the model.
+
+---
+
+📌 Developed by **Sakhisurakhya Nayak**
